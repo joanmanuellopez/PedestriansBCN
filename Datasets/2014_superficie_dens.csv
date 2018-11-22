@@ -1,0 +1,74 @@
+CodiDistricte,CodiBarri,NomBarri,Poblacio,Superficie,Densitat,DensitatNeta
+1,1,el Raval,47489,110,432,956
+1,2,el Barri Gotic,15734,84,187,461
+1,3,la Barceloneta,15104,131,115,1155
+1,4,Sant Pere, Santa Caterina i la Ribera,22358,111,201,692
+2,5,el Fort Pienc,31494,93,339,943
+2,6,la Sagrada Familia,51299,105,488,996
+2,7,la Dreta de Eixample,43340,212,204,381
+2,8,Antiga Esquerra de Eixample,41717,123,338,623
+2,9,la Nova Esquerra de Eixample,57619,134,431,876
+2,10,Sant Antoni,38096,80,476,919
+3,11,el Poble Sec AEI Parc Montjuic,40278,460,87,1121
+3,12,la Marina del Prat Vermell AEI Zona Franca,1144,1428,1,31
+3,13,la Marina de Port,30047,125,239,768
+3,14,la Font de la Guatlla,10309,30,341,904
+3,15,Hostafrancs,15666,41,382,700
+3,16,la Bordeta,18398,58,319,891
+3,17,Sants Badal,24128,41,588,960
+3,18,Sants,40854,110,372,735
+4,19,les Corts,45984,141,326,709
+4,20,la Maternitat i Sant Ramon,23564,190,124,721
+4,21,Pedralbes,11652,270,43,143
+5,22,Vallvidrera, el Tibidabo i les Planes,4514,1152,4,50
+5,23,Sarria,24523,304,81,261
+5,24,les Tres Torres,16161,79,205,380
+5,25,Sant Gervasi la Bonanova,24926,224,112,304
+5,26,Sant Gervasi Galvany,46466,166,280,487
+5,27,el Putxet i el Farro,29171,85,345,548
+6,28,Vallcarca i els Penitents,15413,121,128,328
+6,29,el Coll,7203,36,201,581
+6,30,la Salut,13166,64,205,679
+6,31,la Vila de Gracia,50448,133,380,604
+6,32,el Camp de en Grassot i Gracia Nova,34043,65,524,883
+7,33,el Baix Guinardo,25527,56,456,1076
+7,34,Can Baro,8859,38,231,618
+7,35,el Guinardo,35534,131,272,679
+7,36,la Font de en Fargues,9440,66,144,239
+7,37,el Carmel,31659,94,336,803
+7,38,la Teixonera,11435,34,339,607
+7,39,Sant Genis dels Agudells,6884,172,40,380
+7,40,Montbau,5047,205,25,432
+7,41,la Vall de Hebron,5490,74,75,674
+7,42,la Clota,521,18,29,85
+7,43,Horta,26554,308,86,419
+8,44,Vilapicina i la Torre Llobeta,25336,57,447,874
+8,45,Porta,24224,84,288,696
+8,46,el Turo de la Peira,15466,35,437,1152
+8,47,Can Peguera,2262,12,189,272
+8,48,la Guineueta,15056,61,246,670
+8,49,Canyelles,6981,79,88,768
+8,50,les Roquetes,15564,64,243,849
+8,51,Verdun,12122,24,511,830
+8,52,la Prosperitat,26089,59,439,958
+8,53,la Trinitat Nova,7388,56,132,588
+8,54,Torre Baro,2547,177,14,118
+8,55,Ciutat Meridiana,10171,36,286,672
+8,56,Vallbona,1310,60,22,194
+9,57,la Trinitat Vella,10241,81,126,807
+9,58,Baro de Viver,2481,23,108,634
+9,59,el Bon Pastor,12670,188,67,788
+9,60,Sant Andreu,56269,184,306,733
+9,61,la Sagrera,28660,97,295,727
+9,62,el Congres i els Indians,13921,41,342,727
+9,63,Navas,21741,42,514,966
+10,64,el Camp de Arpa del Clot,37795,74,510,880
+10,65,el Clot,27035,70,388,1145
+10,66,el Parc i la Llacuna del Poblenou,14613,111,131,744
+10,67,la Vila Olimpica del Poblenou,9364,94,99,387
+10,68,el Poblenou,33011,154,214,775
+10,69,Diagonal Mar i el Front Maritim del Poblenou,13156,124,106,571
+10,70,el Besos i el Maresme,22829,127,179,891
+10,71,Provencals del Poblenou,20096,110,182,1491
+10,72,Sant Marti de Provencals,25917,75,348,1140
+10,73,la Verneda i la Pau,28813,112,257,889
