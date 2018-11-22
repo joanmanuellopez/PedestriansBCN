@@ -2,7 +2,7 @@
 title: "Pedestrian Accidentability in Barcelona"
 author: "Joan M Lopez"
 date: "March 2018"
-output: html_document
+output: github_document
 ---
 
 #### Final Project @UbiqumCodeAcademy
