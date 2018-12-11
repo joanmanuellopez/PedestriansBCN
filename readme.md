@@ -48,19 +48,19 @@ In the 4 years period under analysis, from 2014 to 2017:
     -   There were 40,167 reported accidents in Barcelona resulting in 4,929 pedestrians damaged in 4,686 of these accidents
     -   93.77% of these pedestrians suffered minor injuries ; 5.48% of them suffered major injuries ; while the 0.75% died
 -   WHERE did it happen
-    -   The district in which more pedestrians are damaged is the Eixample whereas those in which less pedestrians are damaged are Sant Andreu and Gracia
+    -   The district in which more pedestrians are damaged is the Eixample whereas those in which less pedestrians are damaged are Sant Andreu and Gracia ![Image 1. Where did it happen, which district?](./Images/Where_BCN_Ped.svg)
 -   WHY did it happen
     -   In the whole city, the 41.4% of the damaged pedestrians suffered the accident because of their own infraction
         -   38% of those by crossing out of pass
         -   37% of those by disobeying traffic light
 -   WHEN did it happen
     -   Most of the pedestrians damaged were hit in the morning hours (8am to 12pm)
-    -   There is a second peak in weekdays at the afternoon, around 6pm
+    -   There is a second peak in weekdays at the afternoon, around 6pm ![Image 2. When did it happen, at what hour?](./Images/When_BCN_Ped.svg)
 -   HOW did it happen
     -   The 95% of the pedestrians injured were caused by 7 vehicles:
         -   Car, Motocycle, Bicycle, Taxi, Van, Cyclomotor, Bus
     -   The bus is the vehicle that proportionally caused more serious damage
-        -   The 17% of the people hit by a bus result in severe damage
+        -   The 17% of the people hit by a bus result in severe damage ![Image 3. How did it happen, which vehicle hit them?](./Images/How_BCN_Ped.svg)
 -   To WHO it happen
     -   Older people that were hit resulted in more severe damage
     -   The proportion of women and men affected is practically the same than the proportion of women and men in the city
